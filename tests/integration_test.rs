@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-executor
+// Integration test for SigmaOS-executor
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_executor as _;
+use sigmaos_executor as _;
 
 #[test]
 fn crate_links_and_runs() {

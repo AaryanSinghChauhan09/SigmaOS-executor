@@ -1,4 +1,4 @@
-# SigmaOS-mint-executor
+# SigmaOS-executor
 
 Command Executor for SigmaOS inspired by Linux Mint
 

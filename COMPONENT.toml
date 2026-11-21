@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-executor"
+name = "SigmaOS-executor"
 tier = 2
 stability = "beta"
 language = "rust"

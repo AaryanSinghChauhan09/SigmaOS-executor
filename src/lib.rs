@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-executor: mint executor component model.
+//! SigmaOS-executor: mint executor component model.
 //!
 //! Real implementation: executors, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
